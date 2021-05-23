@@ -1,0 +1,13 @@
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\bin\Debug\netcoreapp3.1\ConEjercicio2.exe
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\bin\Debug\netcoreapp3.1\ConEjercicio2.deps.json
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\bin\Debug\netcoreapp3.1\ConEjercicio2.runtimeconfig.json
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\bin\Debug\netcoreapp3.1\ConEjercicio2.runtimeconfig.dev.json
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\bin\Debug\netcoreapp3.1\ConEjercicio2.dll
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\bin\Debug\netcoreapp3.1\ConEjercicio2.pdb
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\obj\Debug\netcoreapp3.1\ConEjercicio2.csprojAssemblyReference.cache
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\obj\Debug\netcoreapp3.1\ConEjercicio2.AssemblyInfoInputs.cache
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\obj\Debug\netcoreapp3.1\ConEjercicio2.AssemblyInfo.cs
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\obj\Debug\netcoreapp3.1\ConEjercicio2.csproj.CoreCompileInputs.cache
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\obj\Debug\netcoreapp3.1\ConEjercicio2.dll
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\obj\Debug\netcoreapp3.1\ConEjercicio2.pdb
+D:\queza\Documents\Universidad\Programación I\Proyectos\Solemne 1\SolQuezadaNadia\ConEjercicio2\obj\Debug\netcoreapp3.1\ConEjercicio2.genruntimeconfig.cache
